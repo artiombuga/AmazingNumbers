@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Days of week" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Reasons to use enum" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Print" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/When overloading happens" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Piece of alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Applying the static keyword" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Concat all strings without digits" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Create an email" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Multiple modifications" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
